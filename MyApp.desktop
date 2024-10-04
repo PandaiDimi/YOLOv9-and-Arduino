@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=MyApp
+Comment=Launch myappteliko.py
+Exec=python3 /home/pandora/yolov9_old/myappteliko.py
+Icon=/home/pandora/yolov9_old/widget_image.jpeg
+Terminal=true
+Type=Application
+Categories=Application;
